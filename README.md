@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Joe, from Charlotte, North Carolina (U.S.)
+
+I'm an ML engineer with over a decade's experience as a practicing trial attorney. As so much of the practice of law focuses on language and its syntax, I've enjoyed learning more about NLP and its applications -- including as it may be applied in the legal field.  I'm especially interested in collaborating on projects in this area.  I've also worked in healthcare, insurance, and aviation; any projects in these areas would also be fun to work on.
+
+I currently work with Omdena as a project manager and ML engineer. Omdena was my first experience in a __collaborative__, bottom-up team; it has been a wonderful experience, and working with the world-wide group of collaborators has been a treat. 
+
+Outside of work, I've been learning French for a few years now and love it.  I also play the bagpipes 
+
+
 
 <!--
 **jnels13/jnels13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
