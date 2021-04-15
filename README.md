@@ -4,7 +4,7 @@ I'm an ML engineer and data geek with over a decade's experience as a practicing
 
 I currently work with Omdena as a project manager and ML engineer. Omdena was my first experience in a __collaborative__, bottom-up team; it has been a wonderful experience, and working with the world-wide group of collaborators has been a treat. If you're not familiar with Omdena, check them out: www.Omdena.com. 
 
-Outside of work, I've been learning French for a few years now and love it; my streak on DuoLingo is _awesome_. I also love to play the bagpipes and a few other, quieter instruments. 
+Outside of work, I've been learning French for a few years now and really enjoy it.  My streak on DuoLingo is _awesome_, just don't speak too fast to me. I also love to play the bagpipes and a few other, quieter instruments. 
 
 
 
