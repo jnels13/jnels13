@@ -4,7 +4,7 @@ I'm an ML engineer and data lover, with work experience in the insurance, aviati
 
 Omdena was my first experience on a __collaborative__, bottom-up team; it has been a wonderful experience, and working with the distributed group of collaborators has been a treat. If you're not familiar with Omdena, check them out: www.Omdena.com. 
 
-Outside of work, I've been learning French for a few years now and really enjoy it.  My streak learning French on DuoLingo is _awesome_, just don't speak too fast ... I also love to play the bagpipes and a few other, quieter instruments. I hold an FAA Private Pilot's license, and I'm very interested in machine-learning work in the aviation space. 
+Outside of work, I've been learning French for a few years now and really enjoy it.  My streak on DuoLingo is _awesome_, just don't speak too fast ... I also love to play the bagpipes and a few other, quieter instruments. I hold an FAA Private Pilot's license, and I'm very interested in machine-learning work in the aviation space. 
 
 
 
