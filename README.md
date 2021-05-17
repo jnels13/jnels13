@@ -1,10 +1,10 @@
 ### Hi, I'm Joe, from Charlotte, North Carolina (U.S.)
 
-I'm an ML engineer and data lover with over a decade's experience practicing law. I currently work with Omdena as a project manager and ML engineer. As so much of the practice of law focuses on language and its syntax, I've enjoyed developing NLP projects, including applications in the legal field. Past experiences include work in healthcare (including billing/coding), insurance, and aviation, as well as in technical education and liason positions. I've found a lot of parallels between work as an ML engineer and the law; both share the need to be detail oriented, to plan at the forest-level and execute at the tree-level, and to know the technical side inside-out while being able to educate a non-technical audience.     
+I'm an ML engineer and data lover, with work experience in the insurance, aviation, and healthcare fields, primarily as a practicing attorney. I currently work with Omdena as a project manager and ML engineer. I've found a lot of parallels between work as an ML engineer and the law; both share the need to be detail oriented, to plan at the forest-level and execute at the tree-level, and to know the technical side inside-out while being able to educate a non-technical audience. As so much of the practice of law focuses on language and its syntax, I've enjoyed developing NLP projects, including applications in the legal field.     
 
-Omdena was my first experience in a __collaborative__, bottom-up team; it has been a wonderful experience, and working with the distributed group of collaborators has been a treat. If you're not familiar with Omdena, check them out: www.Omdena.com. 
+Omdena was my first experience on a __collaborative__, bottom-up team; it has been a wonderful experience, and working with the distributed group of collaborators has been a treat. If you're not familiar with Omdena, check them out: www.Omdena.com. 
 
-Outside of work, I've been learning French for a few years now and really enjoy it.  My streak on DuoLingo is _awesome_, just don't speak too fast ... I also love to play the bagpipes and a few other, quieter instruments. I hold an FAA Private Pilot's license; one day I'll start using it again. 
+Outside of work, I've been learning French for a few years now and really enjoy it.  My streak learning French on DuoLingo is _awesome_, just don't speak too fast ... I also love to play the bagpipes and a few other, quieter instruments. I hold an FAA Private Pilot's license, and I'm very interested in machine-learning work in the aviation space. 
 
 
 
