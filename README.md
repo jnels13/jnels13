@@ -1,4 +1,4 @@
-### Hi, I'm Joe, from Charlotte, North Carolina (U.S.)
+### Hi, I'm Joe Nelson, an ML Engineer in Charlotte, North Carolina (U.S.)
 
 I'm an ML engineer and data lover, with work experience in the insurance, aviation, and healthcare fields, primarily as a practicing attorney. Whatever the problem, I think outside of the box, coming up with creative solutions that get the job done. I currently also work with Omdena as a project manager and ML engineer. I've found a lot of parallels between work as an ML engineer and the law; both share the need to be detail oriented (commas can make a big difference ...), to plan at the forest-level and execute at the tree-level, and to know the technical side inside-out while being able to educate a non-technical audience. Because so much of the practice of law focuses on language and its syntax, I've enjoyed developing NLP projects, including applications in the legal field.     
 
