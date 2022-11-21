@@ -1,4 +1,4 @@
-### Hi, I'm Joe Nelson, an Data Engineer in Charlotte, North Carolina (U.S.)
+### Hi, I'm Joe Nelson, an Data Engineer in Charlotte
 
 I'm an data engineer with experience working with large structured and unstructured data, extracting features and labels from text, and providing insightful analysis before engaging in modeling. I currently work creating and maintaining data pipelines for petabyte-scale data lakes and monitoring platforms. 
 
