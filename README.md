@@ -2,10 +2,6 @@
 
 I'm an data engineer with experience working with large structured and unstructured data, extracting features and labels from text, and providing insightful analysis before engaging in modeling. I currently work creating and maintaining data pipelines for petabyte-scale data lakes and monitoring platforms. 
 
-I practiced law for well over a decade, and I've found a lot of parallels between work as an engineer and the law; both share the need to be detail oriented (commas can make a big difference ...), to plan at the forest-level and execute at the tree-level, and to know the technical side inside-out while being able to educate a non-technical audience. Because so much of the practice of law focuses on language and its syntax, I've enjoyed developing NLP projects, including applications in the legal field.     
-
-Omdena was my first experience on a collaborative, bottom-up team, distributed group of collaborators. I started as an assistant project manager on the <a href="https://omdena.com/projects/climate-change/" target="_blank">Leveraging Machine Learning to Minimize Climate Change Impacts </a>project, then moved to project owner on the <a href="https://omdena.com/projects/ai-africa/" target="_blank">Building an ML Model to Predict Future Infrastructure Needs of Africa for Policy Makers</a>, and then (most recently) worked as a machine-learning engineer on the <a href="https://omdena.com/projects/bias/" target="_blank"> Detecting Bias in Articles Through Natural Language Processing</a> project. 
-
 
 <!--
 **jnels13/jnels13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
